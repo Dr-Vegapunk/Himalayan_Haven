@@ -3,8 +3,8 @@
 import { useState } from 'react'
 import { motion } from 'framer-motion'
 import { MountainSnow } from 'lucide-react'
-import { Login } from './Login'
-import { Signup } from './Signup'
+import { Login } from './login'
+import { Signup } from './signup'
 
 const colors = {
   deepSapphireBlue: '#05445E',
